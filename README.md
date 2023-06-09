@@ -1,16 +1,17 @@
-### Hi there 👋
+Hi 👋, I'm Robert Huaman
 
-<!--
-**PepoBJ/PepoBJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a systems engineer passionate about big data, programming, and technology. Welcome to my GitHub profile, where you can find information about my projects, contributions, and interests.
 
-Here are some ideas to get you started:
+**Contact Information**
+- Email: bj112143@gmail.com
+- Phone: +51952296425
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Connect with me**
+- LinkedIn: [Robert Huaman](https://www.linkedin.com/in/robert-bj-huaman/)
+- GitHub: [pepobj](https://github.com/pepobj)
+
+👨‍💻 All of my projects are available at [pepobj.github.io](https://pepobj.github.io/)
+
+📄 Know more about my experiences and professional background on [LinkedIn](https://www.linkedin.com/in/robert-bj-huaman/)
+
+Feel free to reach out to me if you have any questions or would like to connect!
