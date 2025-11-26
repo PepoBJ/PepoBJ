@@ -10,7 +10,7 @@ I'm a systems engineer passionate about big data, programming, and technology. W
 - LinkedIn: [Robert Huaman](https://www.linkedin.com/in/robert-bj-huaman/)
 - GitHub: [pepobj](https://github.com/pepobj)
 
-👨‍💻 All of my projects are available at [pepobj.github.io](https://pepobj.github.io/)
+👨‍💻 All of my projects are available at [pepobj.github.io](https://roberthc.dev/)
 
 📄 Know more about my experiences and professional background on [LinkedIn](https://www.linkedin.com/in/robert-bj-huaman/)
 
